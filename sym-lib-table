@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "cr2450-Lir2450")(type "Legacy")(uri "${KIPRJMOD}/CR2450_footprints-master/cr2450-Lir2450.lib")(options "")(descr ""))
+)
