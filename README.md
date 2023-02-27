@@ -8,4 +8,4 @@
 
 ## Block Diagram
 
-![](/assets/img/iot-badge.png)
+![](/assets/img/iot-badge-bd.png)
