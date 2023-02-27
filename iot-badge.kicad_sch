@@ -775,7 +775,7 @@
     (property "Value" "Battery_Cell" (id 1) (at 80.01 109.7279 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Battery:BatteryHolder_Keystone_3009_1x2450" (id 2) (at 76.2 108.966 90)
+    (property "Footprint" "Battery:BatteryHolder_Keystone_1057_1x2032" (id 2) (at 76.2 108.966 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 76.2 108.966 90)
@@ -970,7 +970,7 @@
 
   (symbol_instances
     (path "/2b36dd8d-f681-41f9-9d0f-3ba1f06030ee"
-      (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "Battery:BatteryHolder_Keystone_3009_1x2450")
+      (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "Battery:BatteryHolder_Keystone_1057_1x2032")
     )
     (path "/b1b227c3-763e-438d-aed7-d3f1dd332c2c"
       (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
