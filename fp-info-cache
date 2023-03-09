@@ -1,4 +1,4 @@
-20900772934852480
+20902451843297349
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52485,6 +52485,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+Display_PCB
+DISPLAY_SSD1306_128x64_I2C_0.96inch
+
+
+0
+4
+0
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -78226,7 +78233,7 @@ nRF24L01 adapter breakout
 8
 RF_PCB_Antenna
 Micrel_Heli_2
-
+PCB ANTENNA 300-450 MHz Micrel Heli 2 AN 52
 
 0
 33

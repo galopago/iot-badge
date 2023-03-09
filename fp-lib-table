@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "RF_PCB_Antenna")(type "KiCad")(uri "${KIPRJMOD}/library/RF_PCB_Antenna.pretty")(options "")(descr ""))
+  (lib (name "Display_PCB")(type "KiCad")(uri "${KIPRJMOD}/library/Display_PCB.pretty")(options "")(descr ""))
 )
