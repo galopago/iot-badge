@@ -1,4 +1,4 @@
-20902453139147045
+20904133293276495
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -78231,6 +78231,13 @@ nRF24L01 adapter breakout
 0
 8
 8
+RF_Module_alt
+Ai-Thinker-Ra-02-LoRa-alt
+Ai Thinker Ra-01 LoRa
+LoRa Ra-01
+0
+16
+16
 RF_PCB_Antenna
 Micrel_Heli_2
 PCB ANTENNA 300-450 MHz Micrel Heli 2 AN 52

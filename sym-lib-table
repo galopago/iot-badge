@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "Display_PCB")(type "KiCad")(uri "${KIPRJMOD}/library/Display_PCB.kicad_sym")(options "")(descr ""))
+  (lib (name "RF_Module_alt")(type "KiCad")(uri "${KIPRJMOD}/library/RF_Module_alt.kicad_sym")(options "")(descr ""))
 )
