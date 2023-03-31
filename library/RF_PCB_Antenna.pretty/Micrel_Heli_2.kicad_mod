@@ -97,7 +97,7 @@
   (pad "" thru_hole circle (at 9.652 2.032) (size 1 1) (drill 0.508) (layers *.Cu) (tstamp dc95da18-8deb-495b-a32f-c5a11d6d0b91))
   (pad "" thru_hole circle (at 1.524 2.032) (size 1 1) (drill 0.508) (layers *.Cu) (tstamp fc514144-a48f-4f91-a85b-3dcfa6d40c6b))
   (pad "1" smd roundrect (at -16.8 7.5) (size 0.6 0.75) (layers "F.Cu") (roundrect_rratio 0.2083333333) (tstamp 3343fb88-350f-44f8-a306-918b8ef2be6d))
-  (zone (net 0) (net_name "") (layers "F.Cu" "F.CrtYd") (tstamp 71c7b2b0-5c71-4aa9-b977-111729c7a194) (hatch full 0.508)
+  (zone (net 0) (net_name "") (layers F&B.Cu "F.CrtYd") (tstamp 71c7b2b0-5c71-4aa9-b977-111729c7a194) (hatch full 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
     (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints not_allowed))
