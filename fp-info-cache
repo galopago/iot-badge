@@ -1,4 +1,4 @@
-20879069616133667
+20882435872927868
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -50546,6 +50546,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DCDC_mini_PCB_module
+ME2188_PCB_MODULE
+
+
+0
+4
+4
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -80744,6 +80751,13 @@ LEM Hall Effect Voltage transducer
 0
 5
 5
+Slide_Switch_SMD
+SW_Slide_2P2T_9mmx7.6mm
+
+
+0
+6
+6
 Socket
 3M_Textool_240-1288-00-0602J_2x20_P2.54mm
 3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)
