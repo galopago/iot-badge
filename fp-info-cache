@@ -1,4 +1,4 @@
-20882435872927868
+20884118878708986
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -318,6 +318,13 @@ Battery
 Battery_Panasonic_CR3032-VCN_Vertical_CircularHoles
 Panasonic CR-3032/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D508.PDF
 battery CR-3032 coin cell vertical
+0
+2
+2
+Battery_SMD
+BatteryHolder_Keystone_1020_1xAAA
+Battery holder for AAA cylindrical cells https://www.keyelco.com/userAssets/file/M65p23.pdf
+AAA Keystone 1020
 0
 2
 2
