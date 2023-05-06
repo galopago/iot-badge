@@ -1,5 +1,5 @@
 
-(rules PCB iot-badge
+(rules PCB iot-badge00
   (snap_angle 
     fortyfive_degree
   )
@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 15201)
+    (start_pass_no 346)
     (layer_rule F.Cu
       (active on)
       (preferred_direction vertical)
@@ -29,6 +29,8 @@
     (width 300.0)
     (clear 200.0)
     (clear 150.0 (type smd_to_turn_gap))
+    (clear 50.0 (type smd-smd))
+    (clear 177.8 (type slimstack-slimstack))
   )
   (padstack "Via[0-1]_800:400_um"
     (shape
@@ -67,8 +69,7 @@
     "Net-(J1-PadA6)" "Net-(J1-PadA7)" +3V3 "Net-(Q2-Pad1)" "Net-(D5-Pad1)" "Net-(C9-Pad2)" "Net-(D2-Pad2)" "Net-(JP1-Pad2)"
     "Net-(AE2-Pad1)" "Net-(R10-Pad2)" "Net-(D3-Pad2)" "Net-(SW9-Pad5)" "Net-(D4-Pad2)" "Net-(C10-Pad1)" "Net-(C11-Pad2)" "Net-(LS1-Pad2)"
     "Net-(D1-Pad4)" "Net-(D1-Pad5)" "Net-(D1-Pad6)" "/DAC-25" "/LEDR-21" "/LEDG-22" "/LEDB-23" "Net-(D5-Pad2)"
-    "/IRLED-2" "/SW5-32" "/SW6-33" "/SW1-0" "/SW2-13" "/SW3-16" "/SW4-17" "Net-(R19-Pad1)"
-    "Net-(R20-Pad1)" "Net-(SW2-Pad1)" "Net-(SW1-Pad1)" "Net-(SW3-Pad1)" "Net-(SW4-Pad1)" "/IRDEC-12"
+    "/IRLED-2" "/SW5-32" "/SW6-33" "/SW1-0" "/SW2-13" "/SW3-16" "/SW4-17" "/IRDEC-12"
     (clearance_class default)
     (via_rule default)
     (rule
