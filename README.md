@@ -12,11 +12,26 @@
 
 ## Pinout
 
+
 ### SSD1306 128x64 i2c OLED display
 
 ESP32 GPIO PIN |Function
 ---------------|---------
-4              |SDA
-15             |SCL
+4              | SDA
+15             | SCL
 
+### Ra-o2 LoRa module
+
+ESP32 GPIO PIN |Function
+---------------|---------
+19             | POCI
+27             | PICO
+5              | SCK
+18             | /CS
+
+### Speaker
+
+ESP32 GPIO PIN |Function
+---------------|---------
+25             | Speaker
 
