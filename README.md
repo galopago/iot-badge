@@ -35,3 +35,34 @@ ESP32 GPIO PIN |Function
 ---------------|---------
 25             | Speaker
 
+### Buttons ( please use internal pull-ups! )
+
+ESP32 GPIO PIN |Function
+---------------|---------
+0              | Up
+13             | Down
+16             | Left
+17             | Right
+33             | B
+32             | A
+
+### RGB LED
+
+ESP32 GPIO PIN |Function
+---------------|---------
+21             | Red
+22             | Green
+23             | Blue
+
+### Ifrared transmitter LED
+
+ESP32 GPIO PIN |Function
+---------------|---------
+2              | Infrared LED
+
+### VS1838b INFRARED RECEIVER MODULE
+
+ESP32 GPIO PIN |Function
+---------------|---------
+12             | VS1838b output
+
