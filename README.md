@@ -20,7 +20,7 @@ ESP32 GPIO PIN |Function
 4              | SDA
 15             | SCL
 
-### Ra-o2 LoRa module
+### Ra-02 LoRa module
 
 ESP32 GPIO PIN |Function
 ---------------|---------
