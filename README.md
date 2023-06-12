@@ -6,7 +6,11 @@
 * Comfortable wearable badge, no components on the back side.
 * Max size 10 x 10 cm to take advantage of cost reductions of most PCB makers.
 * Can be powered by a 3.2 v LiFePO4 AAA size battery
-* Compatible with TinyGS firmware for [reception of LoRa satellites](https://galopago.github.io/english/lora-satelite-ground-station/) without moddifications
+* Compatible with TinyGS firmware for [reception of LoRa satellites](https://galopago.github.io/english/lora-satelite-ground-station/). No moddifications needed!
+
+![Finished Badge](/assets/img/finished_badge_v00.jpg)
+
+Read this in other languages: [Español](/assets/markdown/README.es.md)
 
 ## Block Diagram
 
