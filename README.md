@@ -30,7 +30,11 @@ Read this in other languages: [Español](/assets/markdown/README.es.md)
 * 6 buttons: 4 arranged in D-pad and 2 function buttons
 * USB-C Connector
 
-## Pinout
+## Schematic Diagram
+
+![](/assets/img/schematic.png)
+
+## Pinout connections
 
 
 ### SSD1306 128x64 i2c OLED display
