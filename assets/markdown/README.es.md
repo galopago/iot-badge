@@ -1,96 +1,96 @@
 # IOT-BADGE
 
-## Electronic conference badge for programming conventions, hacking events, etc.
+## Gafete electronico para conferencias de programacion, eventos de hackers, etc.
 
-* Open Source (designed in [KiCad](https://www.kicad.org/)), schematic files, PCB and GERBER files open, free and available
-* Comfortable wearable badge, no components on the back side.
-* Max size 10 x 10 cm to take advantage of cost reductions of most PCB makers.
-* Can be powered by a 3.2 v LiFePO4 AAA size battery
-* Compatible with TinyGS firmware for [reception of LoRa satellites](https://galopago.github.io/english/lora-satelite-ground-station/). No modifications needed!
+* Codigo abierto (disenado en [KiCad](https://www.kicad.org/)), diagramas esquematicos, circuito impreso y archivos GERBER abiertos, gratuitos y disponibles!
+* Comodo para usar, no hay componentes en la cara de atras del circuito impreso.
+* Tamaño maximo 10 x 10 cm para lograr costos economicos en la fabricacion del circuito impreso que ofrecen la mayoria de fabricantes para tarjetas de dimensiones iguales o menores a esta.
+* Puede ser alimentado mediante una bateria AAA LiFePO4 de 3.2 v.
+* Compatible con el firmware de TinyGS [para reception de satelites LoRa ](https://galopago.github.io/espanol/lora-satelite-estacion-terrena/). No se requiere ninguna modificacion!
 
 ![Finished Badge](/assets/img/finished_badge_v00.jpg)
 
 Lea esto en otros idiomas: [English](../../README.md)
 
-## Block Diagram
+## Diagrama de bloques
 
 ![](/assets/img/iot-badge-bd.png)
 
 
-## Capabilities
+## Perifericos disponibles
 
-* ESP32 module compatible with multiple programming languages/platforms: [C/C++](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/), [Arduino](https://github.com/espressif/arduino-esp32), Python (via [MicroPython](https://micropython.org/)), JavaScript (via [Espruino](https://www.espruino.com/ESP32) or [Mongoose OS](https://mongoose-os.com/)), [Rust ([via esp-rs](https://esp-rs.github.io/book/))
-* 0.96" OLED display
-* Infrared LED transmitter and receiver
+* Modulo ESP32 compatible con multiples lenguajes/plataformas de programacion: [C/C++](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/), [Arduino](https://github.com/espressif/arduino-esp32), Python (via [MicroPython](https://micropython.org/)), JavaScript (via [Espruino](https://www.espruino.com/ESP32) or [Mongoose OS](https://mongoose-os.com/)), [Rust ([via esp-rs](https://esp-rs.github.io/book/))
+* Pantalla OLED de 0.96"
+* LED transmisor infrarojo y receptor.
 * WiFi
-* 433 Mhz radio transmitter and receiver (LoRa) connected to a PCB onboard antenna!
-* U.FL Connector for external 433 Mhz antenna
-* RGB LED
-* 0.7 W speaker
-* 6 buttons: 4 arranged in D-pad and 2 function buttons
-* USB-C Connector
+* Radio transmisor de 433 Mhz (incluyendo LoRa) conectado a una antena interna formada en el circuito impreso!
+* Conector U.FL para antena externa de 433 Mhz.
+* LED RGB
+* Bocina de 0.7 W
+* 6 butone: 4 configurados como cruceta y 2 botones de funcion adicional
+* Conector USB-C
 
-Back                           | Side                                  | External Ant                          |
+Detras                         | Lateral                               | Antena Externa                        |
 -------------------------------|---------------------------------------|---------------------------------------|
 ![](/assets/img/back.jpg)|![](/assets/img/side.jpg) |![](/assets/img/extant.jpg) |
 
-## Schematic Diagram
+## Diagrama Esquematico
 
 ![](/assets/img/schematic.png)
 
-## Pinout connections
+## Conexiones de pines entre los perifericos y el modulo ESP32
 
 
-### SSD1306 128x64 i2c OLED display
+### Pantalla OLED i2c SSD1306 128x64
 
-ESP32 GPIO PIN |Function
+ESP32 GPIO PIN |Funcion
 ---------------|---------
 4              | SDA
 15             | SCL
 
-### Ra-02 LoRa module
+### modulo LoRa Ra-02
 
-ESP32 GPIO PIN |Function
+ESP32 GPIO PIN |Funcion
 ---------------|---------
 19             | POCI
 27             | PICO
 5              | SCK
 18             | /CS
 
-### Speaker
+### Bocina
 
-ESP32 GPIO PIN |Function
+ESP32 GPIO PIN |Funcion
 ---------------|---------
-25             | Speaker
+25             | Bocina
 
-### Buttons ( please use internal pull-ups! )
+### Butones ( hay que usar internos! )
 
-ESP32 GPIO PIN |Function
+ESP32 GPIO PIN |Funcion
 ---------------|---------
-0              | Up
-13             | Down
-16             | Left
-17             | Right
+0              | Arriba
+13             | Abajo
+16             | Izquierda
+17             | Derecha
 33             | B
 32             | A
 
-### RGB LED
+### LED RGB
 
-ESP32 GPIO PIN |Function
+ESP32 GPIO PIN |Funcion
 ---------------|---------
-21             | Red
-22             | Green
-23             | Blue
+21             | Rojo
+22             | Verde
+23             | Azul
 
-### Ifrared transmitter LED
+### LED Infrarojo transmisor
 
-ESP32 GPIO PIN |Function
+ESP32 GPIO PIN |Funcion
 ---------------|---------
-2              | Infrared LED
+2              | LED Infrarojo
 
-### VS1838b INFRARED RECEIVER MODULE
+### MODULO RECEPTOR INFRAROJO VS1838b
 
-ESP32 GPIO PIN |Function
+ESP32 GPIO PIN |Funcion
 ---------------|---------
-12             | VS1838b output
+12             | salida del VS1838b
 
