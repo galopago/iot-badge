@@ -30,6 +30,10 @@ Read this in other languages: [Español](/assets/markdown/README.es.md)
 * 6 buttons: 4 arranged in D-pad and 2 function buttons
 * USB-C Connector
 
+Back                           | Side                                  | External Ant                          |
+-------------------------------|---------------------------------------|---------------------------------------|
+![](/a-backplates/assets/img/back.jpg)|![](/assets/img/electronicboards.jpg) |![](/assets/img/extant.jpg) |
+
 ## Schematic Diagram
 
 ![](/assets/img/schematic.png)
