@@ -1,4 +1,4 @@
-20912588235565962
+20912588299019578
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -78257,8 +78257,8 @@ Micrel_916_ant_6
 PCB ANTENNA 868-915 MHz Micrel 916 ANT 2 AN 52
 
 0
-1
-1
+3
+2
 RF_PCB_Antenna
 Micrel_Heli_2
 PCB ANTENNA 300-450 MHz Micrel Heli 2 AN 52
