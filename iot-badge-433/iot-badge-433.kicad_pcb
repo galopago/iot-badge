@@ -6,7 +6,7 @@
 
   (paper "A4")
   (title_block
-    (title "IoT Badge VHF")
+    (title "IoT Badge 433")
     (company "Galopago")
   )
 
