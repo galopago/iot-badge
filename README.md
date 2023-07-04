@@ -23,8 +23,9 @@ Read this in other languages: [Español](/assets/markdown/README.es.md)
 * 0.96" OLED display
 * Infrared LED transmitter and receiver
 * WiFi
-* 433 Mhz radio transmitter and receiver (LoRa) connected to a PCB onboard antenna!
-* U.FL Connector for external 433 Mhz antenna
+* Radio transmitter and receiver module: FSK, GFSK, MSK, GMSK and LoRa!
+* Onboard PCB antenna (433 Mhz and 915 Mhz versions)
+* U.FL Connector for external antenna
 * RGB LED
 * 0.7 W speaker
 * 6 buttons: 4 arranged in D-pad and 2 function buttons
