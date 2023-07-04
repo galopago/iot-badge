@@ -31,13 +31,15 @@ Read this in other languages: [Español](/assets/markdown/README.es.md)
 * 6 buttons: 4 arranged in D-pad and 2 function buttons
 * USB-C Connector
 
+
+## 433 Mhz Version
 Back                           | Side                                  | External Ant                          |
 -------------------------------|---------------------------------------|---------------------------------------|
 ![](/iot-badge-433/assets/img/back.jpg)|![](/iot-badge-433/assets/img/side.jpg) |![](/iot-badge-433/assets/img/extant.jpg) |
 
-## Schematic Diagram
+## Schematic Diagram 433 Version
 
-![](/assets/img/schematic.png)
+![](/iot-badge-433/assets/img/schematic.png)
 
 ## Pinout connections
 
