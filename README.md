@@ -8,13 +8,13 @@
 * Can be powered by a 3.2 v LiFePO4 AAA size battery
 * Compatible with TinyGS firmware for [reception of LoRa satellites](https://galopago.github.io/english/lora-satelite-ground-station/). No modifications needed!
 
-![Finished Badge](/assets/img/finished_badge_v00.jpg)
+![Finished Badge 433 Mhz version](/iot-badge-433/assets/img/finished_badge_v00_433.jpg)
 
 Read this in other languages: [Español](/assets/markdown/README.es.md)
 
 ## Block Diagram
 
-![](/assets/img/iot-badge-bd.png)
+![](/iot-badge-433/assets/img/iot-badge-bd.png)
 
 
 ## Capabilities
