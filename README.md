@@ -10,7 +10,7 @@
 
 ![Finished Badge 433 Mhz version](/iot-badge-433/assets/img/finished_badge_v00_433.jpg)
 
-Read this in other languages: [Español](/assets/markdown/README.es.md)
+Read this in other languages: [Español](/iot-badge-433/assets/markdown/README.es.md)
 
 ## Block Diagram
 
