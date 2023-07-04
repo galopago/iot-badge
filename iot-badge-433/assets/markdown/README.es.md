@@ -34,7 +34,7 @@ Lea esto en otros idiomas: [English](../../README.md)
 
 Detras                         | Lateral                               | Antena Externa                        |
 -------------------------------|---------------------------------------|---------------------------------------|
-![](/assets/img/back.jpg)|![](/assets/img/side.jpg) |![](/assets/img/extant.jpg) |
+![](/iot-badge-433/assets/img/back.jpg)|![](/iot-badge-433/assets/img/side.jpg) |![](/iot-badge-433/assets/img/extant.jpg) |
 
 ## Diagrama Esquematico
 
