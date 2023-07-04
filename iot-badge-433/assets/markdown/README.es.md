@@ -8,13 +8,14 @@
 * Puede ser alimentado mediante una bateria AAA LiFePO4 de 3.2 v.
 * Compatible con el firmware de TinyGS [para reception de satelites LoRa ](https://galopago.github.io/espanol/lora-satelite-estacion-terrena/). No se requiere ninguna modificacion!
 
-![Finished Badge](/assets/img/finished_badge_v00.jpg)
+## Version 433 Mhz
+![Finished Badge](/iot-badge-433/assets/img/finished_badge_v00.jpg)
 
 Lea esto en otros idiomas: [English](../../README.md)
 
 ## Diagrama de bloques
 
-![](/assets/img/iot-badge-bd.png)
+![](/iot-badge-433/assets/img/iot-badge-bd.png)
 
 
 ## Perifericos disponibles
@@ -23,8 +24,9 @@ Lea esto en otros idiomas: [English](../../README.md)
 * Pantalla OLED de 0.96"
 * LED transmisor infrarojo y receptor.
 * WiFi
-* Radio transmisor de 433 Mhz (incluyendo LoRa) conectado a una antena interna formada en el circuito impreso!
-* Conector U.FL para antena externa de 433 Mhz.
+* Modulo radio transmisor FSK, GFSK, MSK, GMSKde 433 Mhz y LoRa!
+* Antena incorporada en el PCB (version de 433 Mhz y 915 Mhz)
+* Conector U.FL para antena externa.
 * LED RGB
 * Bocina de 0.7 W
 * 6 butone: 4 configurados como cruceta y 2 botones de funcion adicional
@@ -36,7 +38,7 @@ Detras                         | Lateral                               | Antena 
 
 ## Diagrama Esquematico
 
-![](/assets/img/schematic.png)
+![](/iot-badge-433/assets/img/schematic_433.png)
 
 ## Conexiones de pines entre los perifericos y el modulo ESP32
 
