@@ -39,7 +39,7 @@ Back                           | Side                                  | Externa
 
 ## Schematic Diagram 433 Version
 
-![](/iot-badge-433/assets/img/schematic.png)
+![](/iot-badge-433/assets/img/schematic_433.png)
 
 ## Pinout connections
 
