@@ -11,7 +11,7 @@
 ## Version 433 Mhz
 ![Finished Badge](/iot-badge-433/assets/img/finished_badge_v00_433.jpg)
 
-Lea esto en otros idiomas: [English](../../../../README.md)
+Lea esto en otros idiomas: [English](../../../README.md)
 
 ## Diagrama de bloques
 
