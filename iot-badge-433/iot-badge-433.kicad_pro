@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 6.4,
-          "height": 6.4,
-          "width": 6.4
+          "drill": 0.0,
+          "height": 5.1,
+          "width": 8.4
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -347,7 +347,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "iot-badge.kicad_pro",
+    "filename": "iot-badge-433.kicad_pro",
     "version": 1
   },
   "net_settings": {

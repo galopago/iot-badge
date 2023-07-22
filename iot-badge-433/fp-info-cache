@@ -1,4 +1,4 @@
-20914277587714937
+20914277596447177
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -80991,11 +80991,11 @@ speaker CUI
 2
 Speaker_SMD
 Speaker_SMD-5020
-Speaker, 300mW, 3V, 12 Ohm, 5mmx5mmx2mm
+Speaker, 300mW, 3V, 12 Ohm, 5mmx5mmx2mm http://www.kaili-buzzer.com/Buzzer-Datasheet/SMD-Magnetic-Buzzer/HCT5020A.pdf
 Magnetic passive buzzer SMD
 0
-2
-2
+3
+3
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
