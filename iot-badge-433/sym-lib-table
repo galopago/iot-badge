@@ -3,4 +3,5 @@
   (lib (name "RF_Module_alt")(type "KiCad")(uri "${KIPRJMOD}/library/RF_Module_alt.kicad_sym")(options "")(descr ""))
   (lib (name "Converter_mini_DCDC")(type "KiCad")(uri "${KIPRJMOD}/library/Converter_mini_DCDC.kicad_sym")(options "")(descr ""))
   (lib (name "Speaker_SMD")(type "KiCad")(uri "${KIPRJMOD}/library/Speaker_SMD.kicad_sym")(options "")(descr ""))
+  (lib (name "Microphone_I2S")(type "KiCad")(uri "${KIPRJMOD}/library/Microphone_I2S.kicad_sym")(options "")(descr ""))
 )

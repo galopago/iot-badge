@@ -6,4 +6,5 @@
   (lib (name "Slide_Switch_SMD")(type "KiCad")(uri "${KIPRJMOD}/library/Slide_Switch_SMD.pretty")(options "")(descr ""))
   (lib (name "Battery_SMD")(type "KiCad")(uri "${KIPRJMOD}/library/Battery_SMD.pretty")(options "")(descr ""))
   (lib (name "Speaker_SMD")(type "KiCad")(uri "${KIPRJMOD}/library/Speaker_SMD.pretty")(options "")(descr ""))
+  (lib (name "Microphone_I2S")(type "KiCad")(uri "${KIPRJMOD}/Microphone_I2S.pretty")(options "")(descr ""))
 )
