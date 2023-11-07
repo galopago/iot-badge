@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "RF_Antenna_smd")(type "KiCad")(uri "${KIPRJMOD}/library/RF_Antenna_smd.pretty")(options "")(descr ""))
+  (lib (name "Battery_SMD")(type "KiCad")(uri "${KIPRJMOD}/library/Battery_SMD.pretty")(options "")(descr ""))
+  (lib (name "Crystal_SMD")(type "KiCad")(uri "${KIPRJMOD}/library/Crystal_SMD.pretty")(options "")(descr ""))
+)
